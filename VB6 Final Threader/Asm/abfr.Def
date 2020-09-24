@@ -1,0 +1,4 @@
+LIBRARY Vb6multithread
+EXPORTS 
+
+GatherObject
